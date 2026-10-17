@@ -253,10 +253,8 @@ const profile: Profile = {
     email: 'pawanbmsce146@gmail.com',
     website: 'https://portfolio-chi-amber-78.vercel.app',
     socials: [
-      { platform: 'github', url: 'https://github.com/johndoe' },
+      { platform: 'github', url: 'https://github.com/Pawan146' },
       { platform: 'linkedin', url: 'https://www.linkedin.com/in/pawan-kushwaha-a5771a144' },
-      { platform: 'twitter', url: 'https://x.com/johndoe' },
-      { platform: 'email', url: 'mailto:pawanbmsce146@gmail.com' },
     ],
   },
 

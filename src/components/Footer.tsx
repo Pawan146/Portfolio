@@ -17,7 +17,7 @@ export default function Footer({ socials, copyright }: FooterProps) {
                 href={social.url}
                 aria-label={social.platform}
                 target={social.url.startsWith('http') ? '_blank' : undefined}
-                rel="noreferrer"
+                rel="noreferrer noopener"
               >
                 <Icon name={social.platform} size={20} />
               </a>
