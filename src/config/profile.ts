@@ -17,7 +17,7 @@ const profile: Profile = {
     description:
       'Portfolio of Pawan Kushwaha, a senior full stack software engineer building scalable web applications and cloud-native systems.',
     keywords: ['Pawan Kushwaha', 'Senior Software Engineer', 'Senior Full Stack Developer', 'Portfolio'],
-    url: 'https://www.example.com',
+    url: 'https://portfolio-chi-amber-78.vercel.app',
     ogImage: '/images/og-image.svg',
     accentColor: '#ffbd39',
     sections: [
@@ -256,7 +256,7 @@ const profile: Profile = {
     quote: 'There is no key to open the heart of another - except curiosity.',
     currentAddress: 'Bengaluru, Karnataka, India',
     email: 'pawanbmsce146@gmail.com',
-    website: 'https://www.example.com',
+    website: 'https://portfolio-chi-amber-78.vercel.app',
     socials: [
       { platform: 'github', url: 'https://github.com/johndoe' },
       { platform: 'linkedin', url: 'https://www.linkedin.com/in/pawan-kushwaha-a5771a144' },
