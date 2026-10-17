@@ -30,7 +30,7 @@ const profile: Profile = {
       'certificates',
       'skills',
       'projects',
-      // 'blog', — uncomment to enable Blog section
+      'blog',
       'contact',
     ],
     copyright: 'Pawan Kushwaha. All rights reserved.',
@@ -238,16 +238,11 @@ const profile: Profile = {
     tagline: 'On the technical side, I hope that my writing is evolving and maturing.',
     posts: [
       {
-        title: 'Designing future-proof database models',
-        date: 'Jan 10, 2025',
-        summary: 'Exploring different approaches to design and build database models that scale.',
-        url: 'https://medium.com/@johndoe',
-      },
-      {
-        title: 'Lessons from running Kubernetes in production',
-        date: 'Mar 02, 2025',
-        summary: 'Practical tips on deployments, autoscaling and observability.',
-        url: 'https://medium.com/@johndoe',
+        title: 'Turning Messy Engineering Docs into a Permission-Aware AI Assistant',
+        date: 'Oct 2025',
+        summary:
+          'How we built a doc assistant with hybrid search (vector + keyword + RRF), incremental sync via webhooks, per-user permissions enforced at retrieval, and MCP OAuth for Cursor-style tools — plus retrieval and end-to-end eval lessons.',
+        url: 'https://medium.com/@pawanbmsce146/turning-messy-engineering-docs-into-a-permission-aware-ai-assistant-39c42b451ecd',
       },
     ],
   },
