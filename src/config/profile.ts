@@ -68,7 +68,7 @@ const profile: Profile = {
   experience: [
     {
       period: 'Aug 2020 - Present',
-      title: 'Full Stack Engineer',
+      title: 'Senior Software Engineer',
       organization: 'Ather Energy',
       organizationUrl: 'https://www.atherenergy.com',
       description:
